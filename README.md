@@ -1,4 +1,3 @@
 # Homerun Project
 ## Project Overview:
-Goal: Analyze home-run trends over the course of the 2020 season.
-Results: https://www.ean-maloney.com/blog/categories/home-run-analytics.
+In this project I look at trends in homerun hitting over the course of the 2020 MLB Season. I've posted the results of my research to my blog at: https://www.ean-maloney.com/blog/categories/home-run-analytics.
